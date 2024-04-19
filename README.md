@@ -1,2 +1,2 @@
 # japan_foodie_library
-Some useful restaurants information scraped
+Highly-rated restaurants in Japan scraped from Tabelog. 
